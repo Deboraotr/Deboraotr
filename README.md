@@ -6,7 +6,7 @@ Vist my *[Instagram](https://www.instagram.com/deboraotr_/) - [LinkedIn](https:/
 
 [![Linkedin: Debora](https://img.shields.io/badge/-Debora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/debora-oktaria-lubis-129934207/)](https://www.linkedin.com/in/debora-oktaria-lubis-129934207/)
 [![GitHub Debora](https://img.shields.io/github/followers/deboraotr?label=follow&style=social)](https://github.com/deboraotr)
-![YouTube Channel Subscribers](https://img.shields.io/http://www.youtube.com/channel/UCGGe9f4Nmbkf7Rv3AsfIuvQ)
+
 ---
 
 - 🔭 I’m currently studying at *Diponegoro University*
