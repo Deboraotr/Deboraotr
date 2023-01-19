@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**Deboraotr/Deboraotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I am *Debora Oktaria Lubis* currently studying at *Diponegoro University*. I'm a student, part-time coder and full-time adventure seeker. I currently learning front web developing. Thanks for visiting and I'd love to connect!
 
-Here are some ideas to get you started:
+Vist my *[Instagram](https://www.instagram.com/deboraotr_/) - [LinkedIn](https://www.linkedin.com/in/dimsa-mutiara-firstayodi-4a3321207/)***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin: Debora](https://img.shields.io/badge/-Debora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/debora-oktaria-lubis-129934207/)](https://www.linkedin.com/in/debora-oktaria-lubis-129934207/)
+[![GitHub Debora](https://img.shields.io/github/followers/deboraotr?label=follow&style=social)](https://github.com/deboraotr)
+![YouTube Channel Subscribers](https://img.shields.io/http://www.youtube.com/channel/UCGGe9f4Nmbkf7Rv3AsfIuvQ)
+---
+
+- 🔭 I’m currently studying at *Diponegoro University*
+- 🌱 I’m currently learning *Front-end developing*
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me about *Web Development*
+- 📫 How to reach me:
+  *[LinkedIn](https://www.linkedin.com/in/debora-oktaria-lubis-129934207/), [Instagram](https://www.instagram.com/deboraotr/)***
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimsaamf&layout=compact&theme=dark&hide_border=true)
+
+![debora's github stats](https://github-readme-stats.vercel.app/api?username=deboraotr&show_icons=true&hide_border=true&theme=dark)
