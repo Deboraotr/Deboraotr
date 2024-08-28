@@ -9,8 +9,8 @@ Vist my *[Instagram](https://www.instagram.com/deboraotr/) - [LinkedIn](https://
 
 ---
 
-- 🔭 I’m currently studying at *Diponegoro University*
-- 🌱 I’m currently learning *Front-end developing*
+- 🔭 I’m currently graduate from *Diponegoro University*
+- 🌱 I’m currently interest abput System Analyst and Frontend Development
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about *Web Development*
 - 📫 How to reach me:
